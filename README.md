@@ -6,4 +6,5 @@ You can refer to this wiki for sample codes and further detailed documentaion.
 ## Wiki Structure
 Each directory further has its own README on how to use these tests. 
 
-### Examples - Directory that contains sample tests in different languages 
+- Examples - Directory that contains sample tests in different languages 
+- JavaScript - Directory that conatains JavaScript Testing tests
