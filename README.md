@@ -7,4 +7,4 @@ You can refer to this wiki for sample codes and further detailed documentaion.
 Each directory further has its own README on how to use these tests. 
 
 - Examples - Directory that contains sample tests in different languages 
-- JavaScript - Directory that conatains JavaScript Testing tests
+- JavaScript - Directory that contains JavaScript Testing tests
