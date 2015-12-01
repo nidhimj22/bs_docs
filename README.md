@@ -6,5 +6,6 @@ You can refer to this wiki for sample codes and further detailed documentaion.
 ## Wiki Structure
 Each directory further has its own README on how to use these tests. 
 
-- Examples - Directory that contains sample tests in different languages 
-- JavaScript - Directory that contains JavaScript Testing tests
+- Drivers - Directory that contains sample tests in different languages 
+- JavaScript Testing - Directory that contains tests for JavaScript Testing on BrowserStack
+- Browsers - Snippets to add for different browsers
